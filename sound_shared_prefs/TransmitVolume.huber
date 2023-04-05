@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="sound_transmit_Reverb" value="52" />
+    <int name="sound_transmit_volume" value="100" />
+</map>
